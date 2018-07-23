@@ -1,0 +1,34 @@
+Let's start with a great definition for the confusing term, data scientist (by Josh Wills):
+Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.
+
+Sylabus
+--------
+
+Part 1 - Basics
+Basics
+Data Structures
+Functional Programmin
+Sorting and Pattern Matching
+Object Oriented Programming
+Basic Difference from Python 2 to Python 3
+
+
+Part 2 - Tools for Data Science
+Numerical Computing
+Data Analysis with pandas I
+Data Analysis with pandas II
+Machine Learning I - ML Basics and Data Exploration
+Machine Learning II - Supervised and Unsupervised Learning
+Machine Learning III - Parameter Tuning and Model Evaluation
+Visualization
+
+
+Training Course: Edx Microsoft DAT208x - Introduction to Python for Data Science
+
+Unisinu_Azure Notebook Repository
+https://notebooks.azure.com/Sysdevelopment/libraries/unisinu
+
+Github Repository
+https://github.com/sysdevelopment/internships
+
+
